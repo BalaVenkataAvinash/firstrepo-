@@ -1,1 +1,1 @@
-this my first git program
+this my sceond git program
